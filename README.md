@@ -1,2 +1,2 @@
-# JSX-Practice-getFullYear
+# JSX-Practice
 Created with CodeSandbox
